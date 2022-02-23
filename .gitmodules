@@ -1,0 +1,3 @@
+[submodule "my_common"]
+	path = my_common
+	url = git@github.com:Cstylefly/my_common.git
